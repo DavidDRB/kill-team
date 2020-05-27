@@ -31,3 +31,5 @@ be some really cool play considering their tactic shinanegans and fusion pistols
 a couple of models and shooting fusion or neuro disruption could lead to some really insane plays against hoards and elites.
 * Tau actually gains a really cool ability on their Breachers (unplayed unit). Not sure if it will break the Rail rifle meta... but it
 would offer a pretty decent pistol to an unused unit. Might make Breachers playable.
+* Deathwatch Reivers become an interesting option
+* Custodes also have some pretty strong play here I think
