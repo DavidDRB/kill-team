@@ -22,7 +22,7 @@ phase)
 ## Things to watch in testing:
 * Adeptus Astartes gain a unique "identity" as they have diverse pistol options. This could be their "thing"
 * Pistols allow for a pre-psyker shot -- this may be too powerful -- testing required. The cool thing is that Pistols max at 12"
-(aka charge range) -- wherease Psyker Psybolt is 18". I suspect this will lead to some realy cool positional play
+(aka charge range) -- whereas Psyker Psybolt is 18". I suspect this will lead to some realy cool positional play
 * Drukhari take on interesting elements as they have a couple of cool pistols to bring to bear
 * Asuryani can also lean on pistol usage -- might lead to new angles considering the subfactions for Shuriken weapon play
 * Harlequins are particularly effected. I think this helps bump them up a tier and makes them insanely dangerous at close range.
