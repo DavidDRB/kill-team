@@ -25,7 +25,7 @@ phase)
 (aka charge range) -- whereas Psyker Psybolt is 18". I suspect this will lead to some realy cool positional play
 * Drukhari take on interesting elements as they have a couple of cool pistols to bring to bear
 * Asuryani can also lean on pistol usage -- might lead to new angles considering the subfactions for Shuriken weapon play
-* Harlequins are particularly effected. I think this helps bump them up a tier and makes them insanely dangerous at close range.
+* Harlequins are particularly affected. I think this helps bump them up a tier and makes them insanely dangerous at close range.
 It's of note that they only have the neuro disruptor pistol to use at longer range charges -- and not beyond 12". I think there could
 be some really cool play considering their tactic shinanegans and fusion pistols once they close the gap. Leaving combat and recharging
 a couple of models and shooting fusion or neuro disruption could lead to some really insane plays against hoards and elites.
