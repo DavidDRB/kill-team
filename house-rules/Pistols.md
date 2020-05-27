@@ -12,7 +12,7 @@ in order to enhance combat choice and loadout options.
 factions
 
 ## Proposed Rulings:
-* Allow Pistols to be fired at any <charge target> when charge is declared, but after charge reactions (overwatch and retreat). 
+* Allow Pistols to be fired at any [charge target] when charge is declared, but after charge reactions (overwatch and retreat). 
 Shot is taken at -1 BS (in addition to any normal long range or obscured conditions)
 * LOS and Weapon Range must be valid
 * Leave protracted Pistol usage as is
